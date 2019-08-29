@@ -1,0 +1,80 @@
+1988
+
+USA                                                        226766
+ Canada                                                      42645
+ Australia                                                  361493
+ New Zealand                                                 79083
+ Africa                                                      46586
+
+1989
+
+USA                                                        247979
+ Canada                                                      55244
+ Australia                                                  450218
+ New Zealand                                                 86664
+ Africa                                                      54952
+
+1990
+
+USA                                                        261444
+ Canada                                                      61141
+ Australia                                                  456560
+ New Zealand                                                 72713
+ Africa                                                      56197
+
+1991
+
+USA                                                        253748
+ Canada                                                      58541
+ Australia                                                  367956
+ New Zealand                                                 61986
+ Africa                                                      55726
+
+1992
+
+USA                                                        287572
+ Canada                                                      63909
+ Australia                                                  385077
+ New Zealand                                                 61967
+ Africa                                                      69686
+
+1993
+
+USA                                                        307387
+ Canada                                                      63911
+ Australia                                                  365125
+ New Zealand                                                 62958
+ Africa                                                      97628
+
+1994
+
+USA                                                        343678
+ Canada                                                      65498
+ Australia                                                  347362
+ New Zealand                                                 69051
+ Africa                                                     100692
+
+1995
+
+USA                                                        345512
+ Canada                                                      61869
+ Australia                                                  346763
+ New Zealand                                                 66197
+ Africa                                                      86931
+
+1996
+
+USA                                                        374004
+ Canada                                                      65574
+ Australia                                                  351593
+ New Zealand                                                 67721
+ Africa                                                      79616
+
+1997
+
+USA                                                        376413
+ Canada                                                      62527
+ Australia                                                  381462
+ New Zealand                                                 70372
+ Africa                                                      70617
+
